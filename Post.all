@@ -1,0 +1,36 @@
+=> 
+[[32m#<User:0x00007f32e3b44fe8[0m
+  id: [34m[1m71[0m,
+  name: [31m[1m"[0m[31mJohn Doe[0m[31m[1m"[0m,
+  email: [31m[1m"[0m[31mjohn@example.com[0m[31m[1m"[0m,
+  password: [31m[1m"[0m[31m[FILTERED][0m[31m[1m"[0m,
+  created_at: Fri, 26 Apr 2024 22:26:08.936667000 UTC +00:00,
+  updated_at: Fri, 26 Apr 2024 22:26:08.936667000 UTC +00:00[32m>[0m,
+ [32m#<User:0x00007f32e4cc4b10[0m
+  id: [34m[1m72[0m,
+  name: [31m[1m"[0m[31mJane Smith[0m[31m[1m"[0m,
+  email: [31m[1m"[0m[31mjane@example.com[0m[31m[1m"[0m,
+  password: [31m[1m"[0m[31m[FILTERED][0m[31m[1m"[0m,
+  created_at: Fri, 26 Apr 2024 22:26:08.943467000 UTC +00:00,
+  updated_at: Fri, 26 Apr 2024 22:26:08.943467000 UTC +00:00[32m>[0m,
+ [32m#<User:0x00007f32e4cc49d0[0m
+  id: [34m[1m73[0m,
+  name: [31m[1m"[0m[31mMichael Johnson[0m[31m[1m"[0m,
+  email: [31m[1m"[0m[31mmichael@example.com[0m[31m[1m"[0m,
+  password: [31m[1m"[0m[31m[FILTERED][0m[31m[1m"[0m,
+  created_at: Fri, 26 Apr 2024 22:26:08.949228000 UTC +00:00,
+  updated_at: Fri, 26 Apr 2024 22:26:08.949228000 UTC +00:00[32m>[0m,
+ [32m#<User:0x00007f32e4cc4750[0m
+  id: [34m[1m74[0m,
+  name: [31m[1m"[0m[31mEmily Brown[0m[31m[1m"[0m,
+  email: [31m[1m"[0m[31memily@example.com[0m[31m[1m"[0m,
+  password: [31m[1m"[0m[31m[FILTERED][0m[31m[1m"[0m,
+  created_at: Fri, 26 Apr 2024 22:26:08.955473000 UTC +00:00,
+  updated_at: Fri, 26 Apr 2024 22:26:08.955473000 UTC +00:00[32m>[0m,
+ [32m#<User:0x00007f32e4cc4610[0m
+  id: [34m[1m75[0m,
+  name: [31m[1m"[0m[31mDavid Lee[0m[31m[1m"[0m,
+  email: [31m[1m"[0m[31mdavid@example.com[0m[31m[1m"[0m,
+  password: [31m[1m"[0m[31m[FILTERED][0m[31m[1m"[0m,
+  created_at: Fri, 26 Apr 2024 22:26:08.961261000 UTC +00:00,
+  updated_at: Fri, 26 Apr 2024 22:26:08.961261000 UTC +00:00[32m>[0m]
